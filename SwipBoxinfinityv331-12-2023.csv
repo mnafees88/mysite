@@ -1,0 +1,37 @@
+Repository,Branch,Commit SHA,User,Date,Co-authors,Commit Update
+test-repo1,dev,asdfd,nafees-test-1,01/01/2024,,
+test-repo2,prod,fdafda,nafees-test-2,12/26/2023,,
+test-repo3,dev,asdfdsafdf,nafees-test-3,12/26/2023,,
+test-repo4,prod,asdfd,nafees-test-4,12/26/2023,,
+test-repo5,dev,fdafda,nafees-test-5,12/26/2023,,
+test-repo6,prod,asdfdsafdf,nafees-test-6,12/26/2023,,
+test-repo7,dev,asdfd,nafees-test-7,12/26/2023,,
+test-repo8,prod,fdafda,nafees-test-8,12/27/2023,,
+test-repo9,dev,asdfdsafdf,nafees-test-1,01/01/2024,,
+test-repo10,prod,asdfd,nafees-test-1,01/01/2024,,
+test-repo11,dev,fdafda,nafees-test-1,01/01/2024,,
+test-repo12,prod,asdfdsafdf,nafees-test-1,01/01/2024,,
+End_User_App_Android_Native,Bring_12_12_2023,ba78fdf889fa8da92015dd937042dd9ba3140f1b,TahirGhani,01/01/2024,,
+End_User_App_Android_Native,GLS_26_12_2023,1b46797f10c605fa9f86113633266df937a35ce5,TahirGhani,01/01/2024,,
+End_User_App_Android_Native,GLS_26_12_2023,172a540cb4bb489385d709bc6d8b2dc78b030e0a,TahirGhani,01/01/2024,,
+End_User_App_Android_Native,GLS_26_12_2023,f4d26b794e6980e6999c5e42eefd6d306697bc02,TahirGhani,01/01/2024,,
+End_User_App_Android_Native,GLS_26_12_2023,8323b048bb7a1e97cbfdddb1a9c38e43a4f2b8ef,etisam.zafar,12/26/2023,,
+End_User_App_Android_Native,GLS_26_12_2023,ebfffd141c9a4d35a3e86f5d51094a76ce678d95,TahirGhani,12/26/2023,,
+End_User_App_Android_Native,GLS_26_12_2023,b90e133548c72dab86abf5d5ced31c86adb8fda8,TahirGhani,12/26/2023,,
+End_User_App_Android_Native,GLS_27_12_2023,a96fdb399129d15b40ed7b05b1580be2cf0eb698,etisam.zafar,12/27/2023,,
+End_User_App_Android_Native,GLS_27_12_2023,b53c4238a8c53edda444cd58c25800235b9fb2b0,etisam.zafar,12/27/2023,,
+End_User_App_Android_Native,GLS_27_12_2023,8323b048bb7a1e97cbfdddb1a9c38e43a4f2b8ef,etisam.zafar,12/26/2023,,
+End_User_App_Android_Native,GLS_27_12_2023,ebfffd141c9a4d35a3e86f5d51094a76ce678d95,TahirGhani,12/26/2023,,
+End_User_App_Android_Native,GLSStable_28_12_2023,9925f845aa194a259ee796ce4487e57775df528e,etisam.zafar,12/28/2023,,"Branch: GLSStable_28_12_2023, Repo: End_User_App_Android_Native, Commit SHA: 9925f845aa194a259ee796ce4487e57775df528e"
+End_User_App_Android_Native,GLSStable_28_12_2023,21d9a6a2fead67c556a57e45184187a5ce04991b,etisam.zafar,12/28/2023,,"Branch: GLSStable_28_12_2023, Repo: End_User_App_Android_Native, Commit SHA: 21d9a6a2fead67c556a57e45184187a5ce04991b"
+End_User_App_Android_Native,GLSStable_28_12_2023,70a6f9d09a7d8626a16dde14a59852171272f6dc,etisam.zafar,12/28/2023,,"Branch: GLSStable_28_12_2023, Repo: End_User_App_Android_Native, Commit SHA: 70a6f9d09a7d8626a16dde14a59852171272f6dc"
+End_User_App_Android_Native,GLSStable_28_12_2023,b7b55ca7813629db63278c947cdbf538bd0b5e51,etisam.zafar,12/28/2023,,"Branch: GLSStable_28_12_2023, Repo: End_User_App_Android_Native, Commit SHA: b7b55ca7813629db63278c947cdbf538bd0b5e51"
+End_User_App_Android_Native,GLSStable_28_12_2023,1b46797f10c605fa9f86113633266df937a35ce5,TahirGhani,12/27/2023,,"Branch: GLSStable_28_12_2023, Repo: End_User_App_Android_Native, Commit SHA: 1b46797f10c605fa9f86113633266df937a35ce5"
+End_User_App_Android_Native,GLSStable_28_12_2023,172a540cb4bb489385d709bc6d8b2dc78b030e0a,TahirGhani,12/27/2023,,"Branch: GLSStable_28_12_2023, Repo: End_User_App_Android_Native, Commit SHA: 172a540cb4bb489385d709bc6d8b2dc78b030e0a"
+End_User_App_Android_Native,GLSStable_28_12_2023,f4d26b794e6980e6999c5e42eefd6d306697bc02,TahirGhani,12/27/2023,,"Branch: GLSStable_28_12_2023, Repo: End_User_App_Android_Native, Commit SHA: f4d26b794e6980e6999c5e42eefd6d306697bc02"
+End_User_App_Android_Native,GLSStable_28_12_2023,8323b048bb7a1e97cbfdddb1a9c38e43a4f2b8ef,etisam.zafar,12/26/2023,,"Branch: GLSStable_28_12_2023, Repo: End_User_App_Android_Native, Commit SHA: 8323b048bb7a1e97cbfdddb1a9c38e43a4f2b8ef"
+End_User_App_Android_Native,GLSStable_28_12_2023,ebfffd141c9a4d35a3e86f5d51094a76ce678d95,TahirGhani,12/26/2023,,"Branch: GLSStable_28_12_2023, Repo: End_User_App_Android_Native, Commit SHA: ebfffd141c9a4d35a3e86f5d51094a76ce678d95"
+End_User_App_Android_Native,GLSStable_28_12_2023,b90e133548c72dab86abf5d5ced31c86adb8fda8,TahirGhani,12/26/2023,,"Branch: GLSStable_28_12_2023, Repo: End_User_App_Android_Native, Commit SHA: b90e133548c72dab86abf5d5ced31c86adb8fda8"
+End_User_App_Android_Native,ShlagerOrian_stable_29_12_2023,5cb6811291fb10d89004392ce7d22e5f6d180ff9,etisam.zafar,12/29/2023,,"Branch: ShlagerOrian_stable_29_12_2023, Repo: End_User_App_Android_Native, Commit SHA: 5cb6811291fb10d89004392ce7d22e5f6d180ff9"
+End_User_App_Android_Native,ShlagerOrian_stable_29_12_2023,55b2fe7e90d2ba73f6162e8a3df155329e516f81,etisam.zafar,12/29/2023,,"Branch: ShlagerOrian_stable_29_12_2023, Repo: End_User_App_Android_Native, Commit SHA: 55b2fe7e90d2ba73f6162e8a3df155329e516f81"
+End_User_App_Android_Native,SwipBox_21_12_2023,573ae4e8bca248cbad6b8094f249209543ffb446,TahirGhani,12/28/2023,,"Branch: SwipBox_21_12_2023, Repo: End_User_App_Android_Native, Commit SHA: 573ae4e8bca248cbad6b8094f249209543ffb446"
